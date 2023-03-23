@@ -1,6 +1,6 @@
 import React from 'react'
 
-import MainContent from "./components/Maincontent"
+import MainContent from "./components/MainContent"
 import Sidebar from "./components/Sidebar"
 
 import "./styles/components/app.sass";

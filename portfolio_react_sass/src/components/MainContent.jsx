@@ -6,14 +6,14 @@ import TechnologiesContainer from './TechnologiesContainer'
 
 import '../styles/components/maincontent.sass'
 
-function MainContent () {
-  return (
-    <main id="main-content">
-      <AboutContainer/>
-      <TechnologiesContainer/>
-      <ProjectsContainer/>
-    </main>
-  )
+function MainContent() {
+    return (
+      <main id="main-content">
+          <AboutContainer />
+          <TechnologiesContainer />
+          <ProjectsContainer />
+      </main>
+    )
 }
 
 export default MainContent
