@@ -1,3 +1,5 @@
+import React from 'react'
+
 import MainContent from "./components/Maincontent"
 import Sidebar from "./components/Sidebar"
 
