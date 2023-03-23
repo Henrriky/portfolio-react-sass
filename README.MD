@@ -9,6 +9,10 @@
 - JavaScript
 - NPM
 
+# 🎮 Deploy
+
+- Para ver o site, [clique aqui](https://portfolio-react-sass-tawny.vercel.app)
+
 # 🚀 Anotações 
 
 - Para rodar o SASS é necessário ter instalado o Node.js, assim ele poderá ser compilado automaticamente com o VITE
